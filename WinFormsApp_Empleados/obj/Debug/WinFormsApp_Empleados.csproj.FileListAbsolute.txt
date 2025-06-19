@@ -1,0 +1,25 @@
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\bin\Debug\WinFormsApp_Empleados.exe.config
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\bin\Debug\WinFormsApp_Empleados.exe
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\bin\Debug\WinFormsApp_Empleados.pdb
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.csproj.AssemblyReference.cache
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Form1.resources
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Properties.Resources.resources
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.csproj.GenerateResource.cache
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.exe
+C:\Users\100156651\source\repos\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.pdb
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\bin\Debug\WinFormsApp_Empleados.exe.config
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\bin\Debug\WinFormsApp_Empleados.exe
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\bin\Debug\WinFormsApp_Empleados.pdb
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.csproj.AssemblyReference.cache
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Properties.Resources.resources
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.csproj.GenerateResource.cache
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.exe
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.pdb
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Empleados.resources
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Main.resources
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Areas.resources
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Login.resources
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Usuarios.resources
+C:\Users\Luis Mario\Documents\Programas POO\Empleados\WinFormsApp_Empleados\obj\Debug\WinFormsApp_Empleados.Perfil.resources
